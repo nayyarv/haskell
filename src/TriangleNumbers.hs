@@ -1,4 +1,4 @@
-module Codewars.Kata.SumTri where
+module TriangleNumbers where
 
 sumSeq :: Integer -> Integer
 sumSeq n

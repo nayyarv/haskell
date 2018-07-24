@@ -1,4 +1,4 @@
-module Codewars.Kata.TenMinuteWalk where
+module TenMinuteWalk where
 
 isValidWalk :: [Char] -> Bool
 isValidWalk swalk
